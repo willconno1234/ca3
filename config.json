@@ -1,0 +1,16 @@
+{
+    "weather_api_key" : "18b657709672e0d3f277b98444d680b1"
+    ,"weather_api_location" : "Exeter"
+    ,"weather_api_measurement" : "metric"
+
+    ,"news_url" : "https://newsapi.org/v2/top-headlines?"
+    ,"news_api_key" : "0ae69945d7744ee4b770c9da09dd0d3e"
+    , "news_country": "gb"
+
+    ,"covid_areaType" : "nation"
+    ,"covid_areaName" : "England"
+
+    ,"news_covid_filter": "no"
+
+    ,"covid_threshold": "15000"
+}
